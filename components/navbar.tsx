@@ -27,12 +27,7 @@ export function Navbar() {
             <Link href="/explore" className="text-white hover:text-pink-400 transition-colors">
               Explorar
             </Link>
-            <Button
-              variant="outline"
-              className="border-pink-500 text-pink-400 hover:bg-pink-500 hover:text-white bg-transparent"
-            >
-              Entrar
-            </Button>
+            
           </div>
 
           {/* Mobile Menu Button */}

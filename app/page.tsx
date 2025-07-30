@@ -47,7 +47,7 @@ export default function HomePage() {
             <div className="relative">
               <div className="absolute inset-0 bg-gradient-to-r from-pink-500 to-purple-600 rounded-3xl blur-3xl opacity-30 animate-pulse" />
               <Image
-                src="/placeholder.svg?height=600&width=500"
+                src="https://assets.gamearena.gg/wp-content/uploads/2023/10/30152822/Spider-Man-Meets-Invincible-1024x621.jpg"
                 alt="Hero Comics"
                 width={500}
                 height={600}
@@ -87,7 +87,7 @@ export default function HomePage() {
               },
               {
                 icon: <Star className="h-8 w-8" />,
-                title: "Qualidade HD",
+                title: "Alta Qualidade",
                 description: "Todas as HQs em alta resolução para a melhor experiência visual",
               },
             ].map((feature, index) => (
