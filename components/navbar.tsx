@@ -16,7 +16,7 @@ export function Navbar() {
             <div className="bg-gradient-to-r from-pink-500 to-purple-600 p-2 rounded-lg">
               <BookOpen className="h-6 w-6 text-white" />
             </div>
-            <span className="text-xl font-bold text-white">HQ Reader</span>
+            <span className="text-xl font-bold text-white">ReadFid</span>
           </Link>
 
           {/* Desktop Menu */}
@@ -46,12 +46,6 @@ export function Navbar() {
               <Link href="/explore" className="text-white hover:text-pink-400 transition-colors">
                 Explorar
               </Link>
-              <Button
-                variant="outline"
-                className="border-pink-500 text-pink-400 hover:bg-pink-500 hover:text-white w-fit bg-transparent"
-              >
-                Entrar
-              </Button>
             </div>
           </div>
         )}

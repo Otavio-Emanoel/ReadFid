@@ -10,7 +10,7 @@ export function Footer() {
               <div className="bg-gradient-to-r from-pink-500 to-purple-600 p-2 rounded-lg">
                 <BookOpen className="h-6 w-6 text-white" />
               </div>
-              <span className="text-xl font-bold text-white">HQ Reader</span>
+              <span className="text-xl font-bold text-white">ReadFid</span>
             </div>
             <p className="text-gray-400">
               Sua plataforma favorita para descobrir e ler as melhores histórias em quadrinhos.
